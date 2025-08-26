@@ -20,7 +20,7 @@ A simple tetric clone written in C using the Raylib Library. A simple Tetris clo
 - Press Any Key to Restarte Game When Over
 
 ## Gameplay Demo
-[Watch Gameplay](demo/demo.mp4)
+[Watch Gameplay](demo/demo.gif)
 
 ## Credit
 
