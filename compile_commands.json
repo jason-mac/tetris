@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "/Users/jasonmac/School/raylib/tetris/",
+    "command": "gcc -I/opt/homebrew/include -L/opt/homebrew/lib -lraylib -framework OpenGL -framework Cocoa -framework IOKit -framework CoreVideo pacman.c -o pacman",
+    "file": "game.c"
+  }
+]
